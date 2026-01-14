@@ -1,0 +1,2 @@
+open thispatcherfolder G:/max_objects/Modal_Object_Libraryfolder G:/text_docs/NYU/new_interfaces/EAMIR/new_EAMIR/monochrome/monochrome_EAMIR_Source_PCinclude G:/max_objects/wacom-1.1test4/wacom.mxeinclude G:/max_objects/RTC-lib_4.1-wMAX_PC/put-content-into-patches/Toolbox/banger.mxe
+appicon G:/text_docs/NYU/new_interfaces/EAMIR/EAMIR.ico
